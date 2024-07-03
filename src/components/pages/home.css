@@ -1,0 +1,9 @@
+.home{
+    flex: 4;
+    background-image: url(../../assets/Edunet.jpeg);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+     
+}
+
